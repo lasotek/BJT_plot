@@ -1,0 +1,19 @@
+# Środowiska wirtualne
+.venv/
+venv/
+env/
+
+# Cache i pliki tymczasowe Pythona
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Ustawienia edytora
+.vscode/
+
+# Wygenerowane wykresy (binarne/graficzne)
+*.png
+*.svg
+*.pdf
